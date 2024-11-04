@@ -1,0 +1,3 @@
+# Blackjack
+
+Ejecutar ````npm install```
